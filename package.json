@@ -1,0 +1,4 @@
+{
+  "name": "eslint-prettier-test",
+  "packageManager": "yarn@4.3.1"
+}
